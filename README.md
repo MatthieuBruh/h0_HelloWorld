@@ -2,5 +2,5 @@
 
 This is my first Hello World for Information Security lesson.
 
-    Best Linux command:
+    The best Linux command:
     ls
